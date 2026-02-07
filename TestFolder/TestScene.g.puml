@@ -1,0 +1,8 @@
+@startuml
+
+class TestScene  {
+    [[../TestFolder/TestScene.cs ScriptFile]]
+
+}
+
+@enduml
