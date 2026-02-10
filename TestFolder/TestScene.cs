@@ -1,8 +1,11 @@
 using Godot;
-using System;
 
-public partial class TestScene : Node2D
+namespace TestNameSpace
 {
-    public int anotherInt;
-    public int anotherString;
+    public partial class TestScene : Node2D
+    {
+        public int anotherInt;
+        public int anotherString;
+    }
+  
 }
